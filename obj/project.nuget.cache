@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9nM77PppJ+E2WZV+O5bopFC/zP62jTf92zr/67JixsYxwRhkzwZKujhfkUDweGVi7a2shP7nvdq8YMTJOAPijA==",
+  "success": true,
+  "projectFilePath": "D:\\Teach2Give\\assessments\\C-sharp_APIs\\C-sharp_APIs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KELLY\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

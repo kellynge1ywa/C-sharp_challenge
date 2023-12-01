@@ -1,0 +1,17 @@
+D:\Teach2Give\assessments\C-sharp_APIs\bin\Debug\net8.0\C-sharp_APIs.exe
+D:\Teach2Give\assessments\C-sharp_APIs\bin\Debug\net8.0\C-sharp_APIs.deps.json
+D:\Teach2Give\assessments\C-sharp_APIs\bin\Debug\net8.0\C-sharp_APIs.runtimeconfig.json
+D:\Teach2Give\assessments\C-sharp_APIs\bin\Debug\net8.0\C-sharp_APIs.dll
+D:\Teach2Give\assessments\C-sharp_APIs\bin\Debug\net8.0\C-sharp_APIs.pdb
+D:\Teach2Give\assessments\C-sharp_APIs\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Teach2Give\assessments\C-sharp_APIs\obj\Debug\net8.0\C-sharp_APIs.csproj.AssemblyReference.cache
+D:\Teach2Give\assessments\C-sharp_APIs\obj\Debug\net8.0\C-sharp_APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teach2Give\assessments\C-sharp_APIs\obj\Debug\net8.0\C-sharp_APIs.AssemblyInfoInputs.cache
+D:\Teach2Give\assessments\C-sharp_APIs\obj\Debug\net8.0\C-sharp_APIs.AssemblyInfo.cs
+D:\Teach2Give\assessments\C-sharp_APIs\obj\Debug\net8.0\C-sharp_APIs.csproj.CoreCompileInputs.cache
+D:\Teach2Give\assessments\C-sharp_APIs\obj\Debug\net8.0\C-sharp_APIs.csproj.CopyComplete
+D:\Teach2Give\assessments\C-sharp_APIs\obj\Debug\net8.0\C-sharp_APIs.dll
+D:\Teach2Give\assessments\C-sharp_APIs\obj\Debug\net8.0\refint\C-sharp_APIs.dll
+D:\Teach2Give\assessments\C-sharp_APIs\obj\Debug\net8.0\C-sharp_APIs.pdb
+D:\Teach2Give\assessments\C-sharp_APIs\obj\Debug\net8.0\C-sharp_APIs.genruntimeconfig.cache
+D:\Teach2Give\assessments\C-sharp_APIs\obj\Debug\net8.0\ref\C-sharp_APIs.dll
